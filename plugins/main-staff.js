@@ -29,7 +29,7 @@ let staff = `🚩 *EQUIPO DE AYUDANTES*
 💛 *Número:* Wa.me/50488198573
 
 • 𝐎𝐫𝐥𝐚𝐧𝐝𝐨
-🍭 *Rol:* Mod
+🍭 *Rol:* Developer
 💛 *Número:* Wa.me/522731590195
 
 • 𝐒𝐄𝐈𝐒𝐇𝐈𝐑𝐎 - 𝐍𝐀𝐆𝐈
