@@ -30,7 +30,7 @@ const vid = ['https://qu.ax/GRpXR.mp4', 'https://qu.ax/GRpXR.mp4']
 const defaultMenu = {
   before: `*•:•:•:•:•:•:•:•:•:•☾☼☽•:•.•:•.•:•:•:•:•:•*
 
-"*「💛」 ¡Hola! %name soy ${CrowaBot}*, *%greeting* ❒"
+"*「💛」 ¡Hola! %name soy ${mamebot}*, *%greeting* ❒"
 
 ╔━━━━━ *⊱𝐈𝐍𝐅𝐎 - 𝐁𝐎𝐓⊰*
 ✦  👤 *Cliente:* %name
