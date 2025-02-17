@@ -30,7 +30,7 @@ const vid = ['https://qu.ax/GRpXR.mp4', 'https://qu.ax/GRpXR.mp4']
 const defaultMenu = {
   before: `*•:•:•:•:•:•:•:•:•:•☾☼☽•:•.•:•.•:•:•:•:•:•*
 
-"*「💛」 ¡Hola! %name soy ${namebot}*, *%greeting* ❒"
+"*「💛」 ¡Hola! %name soy ${CrowaBot}*, *%greeting* ❒"
 
 ╔━━━━━ *⊱𝐈𝐍𝐅𝐎 - 𝐁𝐎𝐓⊰*
 ✦  👤 *Cliente:* %name
@@ -41,7 +41,7 @@ const defaultMenu = {
 ╚━━━━━━━━━━━━━━
 %readmore
 ╔━━━━━ *⊱𝐈𝐍𝐅𝐎 - 𝐔𝐒𝐄𝐑⊰*
-✧  🤖 *Bot:* CrowBot-ST
+✧  🤖 *Bot:* CrowaBot-ST
 ✦  🔱 *Modo:* Privado VIP 
 ✧  ✨ *Baileys:* Multi Device
 ✦  🪐 *Tiempo Activo:* %muptime
