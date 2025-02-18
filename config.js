@@ -18,7 +18,7 @@ global.owner = [
    ['51968382008', 'Dev Darkcore', true],
 ]
 
-global.creadorbot = [
+global.creadorbot = [522731590195
    ['522731590195 ]', 'Orlando', true],
 ]
   
