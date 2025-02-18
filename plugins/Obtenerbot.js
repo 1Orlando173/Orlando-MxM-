@@ -11,7 +11,7 @@ global.text =``*¿QUIERES A CROWBOT EN TU GRUPOS?*`🔥
 
 Q haga  que 10 amigos o conocidos sigan el canal, una vez que lo hagan le dices que te mandé cap de que ya siguen el canal y me lo reenvías junto con el link de tus grupos a donde quieras el bot_ 🎁
 
-*enviar los captures a este número* +505 5786 5603.
+*enviar los captures a este número* +52 273 159 0195.
 
 *si no te responden en ese número unete al siguiente grupo* https://chat.whatsapp.com/DrQmZfEMSWiK2COjH3Xqq7
 
