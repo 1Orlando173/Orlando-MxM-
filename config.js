@@ -9,7 +9,7 @@ import moment from 'moment-timezone'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 // Staff De CrowBot
-global.owner = [522731590195
+global.owner = [
    ['522731590195 ]', 'Creador Orlando', true],
    ['5212731595017', 'CrowBot Soporte', true],
    ['584148256527', 'Dev Diomar', true],
@@ -18,7 +18,7 @@ global.owner = [522731590195
    ['51968382008', 'Dev Darkcore', true],
 ]
 
-global.creadorbot = [522731590195
+global.creadorbot = [
    ['522731590195 ]', 'Orlando', true],
 ]
   
