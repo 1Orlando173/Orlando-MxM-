@@ -21,7 +21,7 @@ conn.reply(m.chat, `*🌠 Selección Aleatoria: ${tag}*\n> Serás Eliminado`, m,
 
 await conn.groupParticipantsUpdate(m.chat, [randomUser .id], 'remove')
 conn.reply(m.chat, `*${tag}* Fue Eliminado por no poner pared 🎩`, m, null)
-    m.react('✅');
+    m.react('😈');
 }
 
 handler.help = ['ruletaban']
