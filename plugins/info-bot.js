@@ -28,7 +28,7 @@ conn.reply(m.chat, `*Claro, El Bot Perzonalizado Simple Cuesta 14$ Con Server In
 }
 
 if (/^Bot de mrd/i.test(m.text)) {
-conn.reply(m.chat, `*Mejor me como atu mamá we?🥵*`, m, rcanal, )
+conn.reply(m.chat, `*Mejor me cojo atu mamá we?🥵*`, m, rcanal, )
 }
 
 if (/^Vendes Bot|Venden Bot|Quiero Comprar Bot|Quiero Comprar un bot/i.test(m.text)) {
