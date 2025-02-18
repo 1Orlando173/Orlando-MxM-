@@ -19,7 +19,8 @@ conn.reply(m.chat, `*No digas mamadas, Meriyein*`, m, rcanal, )
 }
 
 if (/^porno|gore/i.test(m.text)) {
-conn.reply(m.chat, `*Escucha maldita sabandija ni se te ocurra enviar ese tipo de contenido 🤬*`, m, rcanal, )
+conn.reply(m.chat, `*Por eso no tienes novia😹 
+Tu mamá en 4 😈🤤*`, m, rcanal, )
 }
 
 if (/^Bot Perzonalizado Simple/i.test(m.text)) {
