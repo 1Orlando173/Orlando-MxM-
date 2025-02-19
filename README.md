@@ -103,7 +103,7 @@ ___
 
 ### **`👑 INFORMACION CONTACTOS`**
 
-#### **`Owner: Niño Piña 🤴`**
+#### **`Owner: Orlando castillo 🤴`**
 > **`Developed By: Crow's Club`**
 
 #### **`CONTACTOS 💻`**
