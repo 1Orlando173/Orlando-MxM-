@@ -156,7 +156,7 @@ apt update && apt upgrade && pkg install -y git nodejs ffmpeg imagemagick yarn
 ```
 
 ```bash
-git clone https://github.com/WillZek/CrowBot-ST && cd CrowBot-ST
+git clone https://github.com/1Orlando173/Orlando-MxM- && cd Orlando-MxM-
 ```
 
 ```bash
