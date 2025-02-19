@@ -1,7 +1,7 @@
 // Código sencillo 
 let handler = async (m, { conn }) => {
 m.react('🍭');
-const message = "〔🍭 *CROW - BOT* 📩〕\n\n> *🎩 HOLA ✨*\n\n*BOT PARA GRUPO* :\n> wa.me/50557865603\n\n*BOT PERZONALIZADO* :\n> wa.me/50557865603";
+const message = "〔🍭 *CROW - BOT* 📩〕\n\n> *🎩 HOLA ✨*\n\n*BOT PARA GRUPO* :\n> Wa.me/522731590195\n\n*BOT PERZONALIZADO* :\n> Wa.me/522731590195";
 if (m, rcanal) {
 const img = 'https://files.catbox.moe/kd7vs5.jpg';
 try {
