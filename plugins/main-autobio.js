@@ -14,7 +14,7 @@ process.once('message', resolve);
 setTimeout(resolve, 2000)}) * 1000;
 }
 let uptime = clockString(_uptime);
-let bio = `『${global.packname}』 |「🕒」𝐀𝐜𝐭𝐢𝐯𝐨: ${uptime} |「</>」 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝: Orlando 👑` 
+let bio = `『${global.packname}』 |「🕒」𝐀𝐜𝐭𝐢𝐯𝐨: ${uptime} |「</>」 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝: Orlando el mas pitudo😈` 
 await this.updateProfileStatus(bio).catch(_ => _);
 setting.autobio = new Date() * 1;
 };
