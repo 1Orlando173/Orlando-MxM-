@@ -12,7 +12,7 @@ async function handler(m, {groupMetadata}) {
 
   let txt = `*FORMANDO PAREJA 💏*\n> ${toM(a)}, Deberías Empezar Una Cita con ${toM(b)} 🌹`;
 
-  const stickerUrl = 'https://files.catbox.moe/ajtz0u.webp'; 
+  const stickerUrl = 'https://files.catbox.moe/3v8qvl.webp'; 
   m.react('💘');
 
   await conn.sendFile(m.chat, stickerUrl, 'sticker.webp', '', m, null);
